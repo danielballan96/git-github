@@ -20,6 +20,7 @@
      [✅] git commit -m "Comentario"
      [✅] git log 
      [✅] git remote add origin <repo> 
+     [✅] git remote -v
      [✅] git push -u origin  master
 
 ---
